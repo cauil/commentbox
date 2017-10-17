@@ -160,7 +160,7 @@ class CommentList extends Component {
     let promotion = '';
 
     if (pending) {
-      promotion = <div style={style}><CircularProgress size={1.5}/></div>
+      promotion = <div style={style}><CircularProgress size={89.25}/></div>
     } else if (!comments.length) {
       buttonStyle = Object.assign(buttonStyle, {'float': 'none'});
       promotion = <div style={style}><p>没有搜到评论哎😌  点下边刷新按钮看看</p>
