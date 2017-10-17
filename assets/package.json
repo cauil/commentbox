@@ -22,13 +22,13 @@
   "dependencies": {
     "exports-loader": "^0.6.3",
     "imports-loader": "^0.6.5",
-    "material-ui": "^0.15.4",
+    "material-ui": "^0.16.3",
     "mobx": "^2.5.1",
     "mobx-react": "^3.5.5",
     "mobx-react-devtools": "^4.2.6",
     "react": "^15.3.1",
     "react-dom": "^15.3.1",
-    "react-tap-event-plugin": "^1.0.0",
+    "react-tap-event-plugin": "^2.0.0",
     "whatwg-fetch": "^1.0.0"
   },
   "devDependencies": {
